@@ -18,9 +18,7 @@ class Nappie {
   }
 }
 
-// async function handoff () {
-//
-// }
+
 
 let myNap = new Nappie()
 myNap.handoff()
